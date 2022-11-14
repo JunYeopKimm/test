@@ -51,4 +51,6 @@ git config --global user.email "이메일"
 
 
 
+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
+
 
